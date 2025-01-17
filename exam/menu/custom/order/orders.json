@@ -1,0 +1,12 @@
+{
+    "id": "O001",
+    "customerId": "C001",
+    "items": [
+      { "menuId": "M001", "quantity": 2 }
+    ],
+    "totalPrice": 21.0,
+    "date": "2025-01-01"
+  }
+
+
+ 
